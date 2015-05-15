@@ -27,14 +27,14 @@ p {
 	/*height: 100%;*/
 }
 .bio-bottom {
-	height: 5%;
+	height: 10px;
 }
 .bio-middle {
-	height: 2%;
+	height: 4px;
 }
 .bio-pic {
 	background-color: #8DB7C7;
-	
+
 	border: 10px solid #8DB7C7;
 	border-radius: 10px;
 }
@@ -43,10 +43,10 @@ p {
 	color: #385561;
 	padding: 3% 3% 3% 3%;
 	border: 10px solid #8DB7C7;
-	border-radius: 10px; 
+	border-radius: 10px;
 }
 .bio-top {
-	height: 5%;
+	height: 10px;
 }
 button {
 	width: 16%;
@@ -67,5 +67,5 @@ button {
 	border-radius: 10px;
 }
 .samples-top {
-	height: 10%;
+	height: 20px;
 }
